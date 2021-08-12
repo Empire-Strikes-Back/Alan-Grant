@@ -1,2 +1,2 @@
 {:paths ["src"]
- :deps {}}
+ :deps {github.clj-commons/rewrite-clj {}}}
